@@ -1,5 +1,5 @@
 
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+<img src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif'>
 
 - 👋 Hi, I’m @jayascript1
 - I know Javascript, React, SQL, 
