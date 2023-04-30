@@ -2,7 +2,7 @@
 <img src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif'>
 
 - 👋 Hi, I’m @jayascript1
-- I know Javascript, React, SQL, 
+- I know Javascript, React, SQL, TDD, PSQL, Express, Solo & Pair programming
 - I’m looking to provide value and collaborate on projects that help me become a better developer as I believe learning never stops
 - How to reach me - via email on jojlondon@gmail.com
 <!---
