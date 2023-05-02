@@ -1,5 +1,5 @@
 <div align="center">
-<img src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif'>
+<img src='https://github.com/demartini/demartini/blob/master/code.gif'>
 
 - 👋 Hi, I’m @jayascript1
 - I know Javascript, React, SQL, TDD, PSQL, Express, Solo & Pair programming
